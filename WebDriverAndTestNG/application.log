@@ -1,0 +1,4 @@
+2021-04-05 07:26:40,774  INFO [main] LoginTest2:10 - entering application URL
+2021-04-05 07:26:40,776  WARN [main] LoginTest2:11 - Hey this just a warning message
+2021-04-05 07:26:40,777 FATAL [main] LoginTest2:12 - hey this is just fatal error message
+2021-04-05 07:26:40,777 DEBUG [main] LoginTest2:13 - this is debug message

@@ -1,0 +1,10 @@
+package java.examples;
+
+public class ImplStudent {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+
+	}
+
+}

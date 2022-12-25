@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test name="Practice Grouping">
+		<groups>
+			<define name="All">
+				<include name="Car"/>
+				<include name="Scooter"/>
+			</define>
+			<run>
+				<include name="All"/>
+			</run>
+		</groups>
+		<classes>
+			<class name="com.examples.testng.techvillege.Grouping"/>
+		</classes>
+	</test>
+</suite>
